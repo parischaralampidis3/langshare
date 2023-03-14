@@ -1,3 +1,4 @@
 {
-    "nuxt.isNuxtApp": false
+    "nuxt.isNuxtApp": false,
+    "liveServer.settings.multiRootWorkspaceName": "langshare"
 }
