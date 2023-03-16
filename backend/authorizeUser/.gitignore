@@ -1,8 +1,0 @@
-node_modules/
-#ignore config folder
-config/*.json
-#ignore file named "langbox_documentation.txt"
-langbox_documentation.txt
-#ignore file named "README.md"
-README.md
-
